@@ -390,7 +390,7 @@ Este enfoque proporciona una comprensión sólida de cómo implementar el enruta
 
 
 
-# 10.2.3 Uso de Parámetros de Ruta: Identificando Recursos Dinámicos { #parametros-ruta }
+# 10.2.3 Uso de Parámetros de Ruta: Identificando Recursos Dinámicos{ #parametros-ruta }
 
 En el desarrollo de aplicaciones web, es muy común la necesidad de mostrar información específica basada en un identificador único. Por ejemplo, si tienes una lista de productos y quieres ver los detalles de un producto en particular, no querrías crear una página separada para cada producto. Ahí es donde los **parámetros de ruta** se vuelven indispensables.
 
